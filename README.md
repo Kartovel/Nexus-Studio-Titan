@@ -4,9 +4,7 @@
 
 ## 🚀 Скачать установщик
 
-Вы можете скачать последнюю готовую версию приложения по ссылке ниже:
-👉 
-**[Скачать Nexus-Studio-Titan .exe](https://github.com/Kartovel/Nexus-Studio-Titan/releases/tag/1v)**
+Вы можете скачать последнюю готовую версию приложения по ссылке ниже:👉 **[Скачать Nexus-Studio-Titan .exe](https://github.com/Kartovel/Nexus-Studio-Titan/releases/tag/1v)**
 
 ## ✨ Особенности и функции
 * (Функция 1, например: Быстрая конвертация)
